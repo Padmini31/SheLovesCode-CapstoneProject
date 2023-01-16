@@ -66,7 +66,7 @@ text-decoration-thickness: 7px;border-radius:25px;color:#285430}
 .bak{float:left;width:70%;border:0px solid brown;position:absolute;height:60%;background-color:#A8D1D1;margin-top:0%}
 .baktwo{float:left;width:39%;border:0px solid purple;position:absolute;height:390px;left:70%;background-image:url("../images/bak.jpg");background-size:cover;top:-6%}
 
-.divs{border:1px solid black;height:456px;width:24%;float:left;margin:8px;margin-top:-3%}
+.divs{border:0px solid black;height:456px;width:24%;float:left;margin:8px;margin-top:-3%}
 
 #cont{border:0px solid yellow;height:454px;width:100%;margin:6px;position:relative;margin-top:-41%;margin-left:4%}
 
