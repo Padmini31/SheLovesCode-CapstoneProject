@@ -22,7 +22,7 @@ body{background-color:transparent}
 #lor{border:0px solid black;width:50%;height:200px;position:absolute;left:29%;font-size:15px;color:#0A2647;font-family:system-ui;text-align:center;top:20%;font-weight:600}
 #hl{font-size:41px;color:#0A2647;margin-bottom:0px}
 #con{margin-top:6px;font-weight:700}
-.cards{top:63%;position:absolute;width:100%;font-family:system-ui;margin-left:4%;border:0px solid purple}
+.cards{top:63%;position:absolute;width:100%;font-family:system-ui;margin-left:3.5%;border:0px solid purple}
 
 .one{height:299px;width:270px;position:relative;top:10%;float:left;margin-left:3%;padding:20px}
 
